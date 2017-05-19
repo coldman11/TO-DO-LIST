@@ -1,0 +1,17 @@
+#content {
+  width:240px;
+  margin-top:200px;
+  margin-left:200px;
+  border: 1px solid #b4b4b4;
+}
+
+#theList {
+  list-style-type:none;
+  padding-left:4px;
+  font-family:arial;
+  font-size:15px;
+}
+
+#removeButton {
+  margin-left:4px;
+}
